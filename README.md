@@ -9,5 +9,5 @@
 ```bash
 docker pull kipparker/python-node8:3.6-jessie
 docker run kipparker/python-node8:3.6-jessie npm install
-docker run kipparker/python-node8:3.6-jessie pip install -r requirements
+docker run kipparker/python-node8:3.6-jessie pip install -r requirements.txt
 ```
